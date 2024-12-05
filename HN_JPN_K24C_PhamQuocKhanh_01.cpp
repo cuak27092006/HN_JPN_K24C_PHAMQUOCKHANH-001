@@ -14,7 +14,7 @@ int main() {
         printf("\n---MENU---\n");
         printf("1. Nhap so phan tu va gia tri cua mang \n");
         printf("2. In ra gia tri cac phan tu trong mang \n");
-        printf("3. –em so luong cac so nguyen to co trong mang\n");
+        printf("3. √êem so luong cac so nguyen to co trong mang\n");
         printf("4. Tim gia tri nho thu hai trong mang\n");
         printf("5. Them phan tu\n");
         printf("6. Xoa phan tu \n");
